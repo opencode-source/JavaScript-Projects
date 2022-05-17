@@ -1,0 +1,28 @@
+@font-face{
+    font-family: absan;
+    src: url('../fonts/Abasan.ttf');
+}
+@font-face{
+    font-family: hamid;
+    src: url('../fonts/Hamid.ttf');
+}
+@font-face{
+    font-family: hayat;
+    src: url('../fonts/Hayat.ttf');
+}
+@font-face{
+    font-family: iransans;
+    src: url('../fonts/IranSans.ttf');
+}
+@font-face{
+    font-family: kaman;
+    src: url('../fonts/Kaman.ttf');
+}
+@font-face{
+    font-family: vazir;
+    src: url('../fonts/Vazir.ttf');
+}
+@font-face{
+    font-family: yekan;
+    src: url('../fonts/Yekan.ttf');
+}
